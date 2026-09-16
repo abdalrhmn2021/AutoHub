@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: #1e3a8a;
+  --color-accent: #f59e0b;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+}
