@@ -2,6 +2,20 @@
 
 مشروع Full-Stack لإدارة شركة سيارات متعددة الفروع: معرض إلكتروني، مبيعات، وخدمات ما بعد البيع.
 
+🔗 **Live Demo:** [auto-hub-lilac.vercel.app](https://auto-hub-lilac.vercel.app) | **API:** [autohub-production-7037.up.railway.app](https://autohub-production-7037.up.railway.app/api/health)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-Express_5-339933?logo=node.js&logoColor=white" alt="Node.js / Express" />
+  <img src="https://img.shields.io/badge/MongoDB-Mongoose-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Socket.io-Realtime-010101?logo=socket.io&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Stripe-Payments-635BFF?logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/JWT-httpOnly_Cookies-000000?logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/OpenAI-Assistant-412991?logo=openai&logoColor=white" alt="OpenAI" />
+</p>
+
 ## الحالة الحالية
 
 ### ✅ الخطوة 1: تصميم قاعدة البيانات + الباك اند الأساسي
